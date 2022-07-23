@@ -18,3 +18,22 @@ __*Texto em negrito e itálico usando um asterisco e dois underlines em cada ext
 ---
 linha de cima feito com três hifens e linha de baixo feita com três asteriscos
 ***
+lista numerada
+1. Elemento 1
+1. Elemento 2
+1. Elemento 3
+1. Elemento 4
+
+lista demarcada
+* Elemento 1
+* Elemento 2
+* Elemento 3
+* Elemento 4
+
+lista de tarefas
+-[] Elemento 1
+-[] Elemento 2
+-[] Elemento 3
+-[x] Elemento 4 marcado
+
+
