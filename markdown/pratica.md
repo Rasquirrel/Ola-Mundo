@@ -15,3 +15,6 @@ _Texto em itálico usando um underline em cada extremidade_
 __*Texto em negrito e itálico usando um asterisco e dois underlines em cada extremidade*__
 **_Texto em negrito e itálico usando um underline e dois asteriscos em cada extremidade_**
 
+---
+linha de cima feito com três hifens e linha de baixo feita com três asteriscos
+***
