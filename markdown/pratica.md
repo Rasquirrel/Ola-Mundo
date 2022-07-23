@@ -31,9 +31,9 @@ lista demarcada
 * Elemento 4
 
 lista de tarefas
--[ ] Elemento 1
--[ ] Elemento 2
--[ ] Elemento 3
--[x] Elemento 4 marcado
+- [ ] Elemento 1
+- [ ] Elemento 2
+- [ ] Elemento 3
+- [x] Elemento 4 marcado
 
 
