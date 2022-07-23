@@ -6,6 +6,8 @@
 
 **Texto em negrito usando dois asteriscos em cada extremidade**
 __Texto em negrito usando dois underline em cada extremidade__
+~~Texto riscado~~
+~~**_Texto riscado, em negrito e em itálico_**~~
 
 *Texto em itálico usando um asterisco em cada extremidade*
 _Texto em itálico usando um underline em cada extremidade_
