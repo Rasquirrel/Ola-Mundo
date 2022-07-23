@@ -20,20 +20,41 @@ linha de cima feito com três hifens e linha de baixo feita com três asteriscos
 ***
 lista numerada
 1. Elemento 1
-1. Elemento 2
-1. Elemento 3
-1. Elemento 4
+   1. Dina
+3. Elemento 2
+4. Elemento 3
+5. Elemento 4
 
 lista demarcada
 * Elemento 1
+   * Dina
 * Elemento 2
 * Elemento 3
 * Elemento 4
 
 lista de tarefas
 - [ ] Elemento 1
+  * bruh
 - [ ] Elemento 2
 - [ ] Elemento 3
 - [x] Elemento 4 marcado
 
+Foto da iori:
+ ![Iori](file:///Ola-Mundo/markdown/Iori.jpg)
+ 
+ Uma tabela:
+   
+ nome | idade | cor
+ --- | --- | --- 
+ isac | 16 | roxo
+ dina | 9 | branco
+ 
+ Este é um exemplo de `codigo(arg)` destacado.
+ Este é um exemplo de código extenso
+ ```
+ msg =  'Olá mundo!'
+ print(msg)
+ 
+ ```
 
+emoji 😄
